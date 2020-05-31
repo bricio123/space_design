@@ -1,0 +1,18 @@
+{
+  "name": "space_design",
+  "version": "1.0.0",
+  "description": "project for people like of the space",
+  "main": "index.js",
+  "repository": "https://github.com/bricio123/space_design.git",
+  "author": "<fabricio1234c@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+    
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx live-server  src/ --port=5000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
