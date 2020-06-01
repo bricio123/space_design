@@ -4,6 +4,8 @@
 /*components*/
 @import "./css/nav.css";
 @import "./css/global.css";
+@import "./css/navigator.css";
+@import "./css/buttons.css";
 
 /*variables*/
 @import "./css/variables.css";
